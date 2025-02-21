@@ -159,6 +159,21 @@
         }
       ]
     },
+    "Harender Singh": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-20",
+          "Branch": "GGR",
+          "Start Time": "1:00 PM EST",
+          "End Time": "2:00 PM EST",
+          "Company": "Amazon",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "he performed admirably. There were some minor issues on the candidate's side, possibly due to network problems, as things were a bit slow at times. The interviewer asked questions, which he answered well. They also gave him a coding exercise related to Python, which he handled successfully. However, at times, when he was reading our documents, it seemed like he was reading something else. This seemed to be an issue, and a lack of focus that I observed."
+        }
+      ]
+    },
     "Prateek Narvariya": {
       "expert_category": 0,
       "interviews": [
@@ -631,6 +646,76 @@
     }
   },
   "Charitha Pally": {
+    "Aayush Shukla": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-23",
+          "Branch": "GGR",
+          "Start Time": "2:30 PM EST",
+          "End Time": "3:30 PM EST",
+          "Company": "Pipe Technologies",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "As they told that this role is for green card only , so they can't proceed ahead."
+        },
+        {
+          "Interview Date": "2025-02-06",
+          "Branch": "GGR",
+          "Start Time": "12:30 PM EST",
+          "End Time": "1:15 PM EST",
+          "Company": "Gina Richardson",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "interview answers were clear, structured, and demonstrated strong technical expertise in business intelligence and data visualization. She effectively explained the steps for designing a Tableau dashboard, from data gathering to performance optimization, using Power BI concepts as a reference. However, to improve chances of advancing to the next round, she could focus on highlighting Tableau-specific techniques, providing real-life examples of past projects, and emphasizing collaboration and stakeholder management."
+        },
+        {
+          "Interview Date": "2025-02-07",
+          "Branch": "GGR",
+          "Start Time": "12:30 PM EST",
+          "End Time": "1:00 PM EST",
+          "Company": "Argus Media",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Charitha Pally performed well in the interview, providing structured and detailed answers with relevant real-world examples. She demonstrated strong technical skills in SQL, ETL, cloud technologies, and data engineering, aligning well with the JD. However, lack of direct R Shiny experience could be a concern, though her expertise in Power BI, Tableau, and Python makes her adaptable. She handled questions on pressure, teamwork, and multitasking effectively, showcasing a problem-solving mindset. If R Shiny is not a strict requirement, she is a strong candidate for the next round. If rejected, it would likely be due to R Shiny experience preference or industry-specific knowledge gaps."
+        },
+        {
+          "Interview Date": "2025-02-11",
+          "Branch": "GGR",
+          "Start Time": "3:00 PM EST",
+          "End Time": "3:30 PM EST",
+          "Company": "Southern Company Gas",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Charitha provided strong answers, demonstrating solid knowledge of ETL processes, SQL, Python, and Power BI. While responses were clear and well-structured, they could have been more detailed with real-world examples to showcase problem-solving skills. Effort was evident despite minor language barriers, and the interviewer was impressed overall. There is a moderate to high chance of advancing to the next round, which may focus on a technical assessment or deeper problem-solving scenarios. To improve, Charitha should prepare for hands-on SQL queries, Python scripts, and data modeling challenges while refining communication for clarity."
+        }
+      ]
+    },
+    "Nikesh Raj": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-18",
+          "Branch": "GGR",
+          "Start Time": "11:30 AM EST",
+          "End Time": "12:00 PM EST",
+          "Company": "Argus Media",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "This technical round went well. Interviewer asked 5 technical \"R\" questions and 2 SQL questions, all of them executed correctly. As of next steps, the next round will be the final round."
+        },
+        {
+          "Interview Date": "2025-02-19",
+          "Branch": "GGR",
+          "Start Time": "10:00 AM EST",
+          "End Time": "10:30 AM EST",
+          "Company": "Argus Media",
+          "Round": "Final",
+          "Actual Round": "Final",
+          "Feedback": "The session went well. It was more of a discussion rather than a formal Interview and he didn't ask any questions. They should get back with the decision by this week."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -816,6 +901,31 @@
     }
   },
   "Edward Saingchin": {
+    "Dhiraj Sharma": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-24",
+          "Branch": "AHM1",
+          "Start Time": "2:30 PM EST",
+          "End Time": "3:00 PM EST",
+          "Company": "Origamirisk",
+          "Round": "1st",
+          "Actual Round": "Screening",
+          "Feedback": "They are specifically looking for someone who has direct experience working in property and casualty insurance industry, so they'll not move forward with Edward."
+        },
+        {
+          "Interview Date": "2025-01-29",
+          "Branch": "AHM1",
+          "Start Time": "4:00 PM EST",
+          "End Time": "4:30 PM EST",
+          "Company": "Cornell University",
+          "Round": "1st",
+          "Actual Round": "Screening",
+          "Feedback": "It was a phone screening call. They'll reach out by next week with candidates moving forward."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -925,6 +1035,46 @@
     }
   },
   "George Castaneda": {
+    "Dhiraj Sharma": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-18",
+          "Branch": "GGR",
+          "Start Time": "3:15 PM EST",
+          "End Time": "3:45 PM EST",
+          "Company": "Employers",
+          "Round": "1st",
+          "Actual Round": "Screening",
+          "Feedback": "It was a phone screening call. They'll get back by Friday. There will be at least 3 more rounds if he moves forward."
+        }
+      ]
+    },
+    "Kartikeya Baijal": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-06",
+          "Branch": "GGR",
+          "Start Time": "4:00 PM EST",
+          "End Time": "4:30 PM EST",
+          "Company": "Walt Disney Company (Main)",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "It was an AI-based interview, and he confidently answered all the questions"
+        },
+        {
+          "Interview Date": "2025-02-19",
+          "Branch": "GGR",
+          "Start Time": "5:00 PM EST",
+          "End Time": "5:30 PM EST",
+          "Company": "Astrana Health",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "The interview went well. He was confident in answering all the questions that were asked."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -1135,6 +1285,21 @@
         }
       ]
     },
+    "Nikesh Raj": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-08",
+          "Branch": "AHM",
+          "Start Time": "11:30 AM EST",
+          "End Time": "12:15 PM EST",
+          "Company": "UWM (United Wholesale Mortgage )",
+          "Round": "1st",
+          "Actual Round": "Screening",
+          "Feedback": "It was a phone call. Couple of questions were asked about the current role and work authorization."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -1319,6 +1484,21 @@
           "Round": "Technical",
           "Actual Round": "Technical",
           "Feedback": "It was a complete system design round with technical problems. For the system design, the task was to design a web crawler, and the candidate explained each and every part in detail. For the technical part, situational problems were discussed, and the candidate referred to the document to provide answers effectively."
+        }
+      ]
+    },
+    "Souvik Debnath": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-19",
+          "Branch": "LKN",
+          "Start Time": "5:00 PM EST",
+          "End Time": "6:00 PM EST",
+          "Company": "CNA",
+          "Round": "Technical",
+          "Actual Round": "Technical",
+          "Feedback": "Interviewers ask from java, aws, azure and recent projects. Candidate answered all of them by following docs. Candidate fumbled sometimes while answering. Interviewer mentioned that HR will reach out for next steps."
         }
       ]
     }
@@ -2003,6 +2183,21 @@
         }
       ]
     },
+    "Koushiki": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-19",
+          "Branch": "GGR",
+          "Start Time": "10:45 AM EST",
+          "End Time": "11:45 AM EST",
+          "Company": "Oracle",
+          "Round": "Technical",
+          "Actual Round": "Technical",
+          "Feedback": "Candidate performs okay. Interviewer asked list all oops concepts and write the sample program that covers all the concept and the interviewer asked another 2 coding questions."
+        }
+      ]
+    },
     "Prateek Narvariya": {
       "expert_category": 0,
       "interviews": [
@@ -2220,6 +2415,21 @@
         }
       ]
     },
+    "Nikesh Raj": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-05",
+          "Branch": "LKN",
+          "Start Time": "3:00 PM EST",
+          "End Time": "3:30 PM EST",
+          "Company": "McLaren",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "It was a phone call and she asked a good number of questions. She followed the document carefully and delivered the answers. If proceeds, the next round is with the hiring manager."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -2316,6 +2526,41 @@
         }
       ]
     },
+    "Harender Singh": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-30",
+          "Branch": "GGR",
+          "Start Time": "2:00 PM EST",
+          "End Time": "2:30 PM EST",
+          "Company": "Amazon",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "The interviewer asked questions, which he answered thoroughly and explained in detail. he also followed their instructions. They asked several questions and he answered them all. The interviewer said they have several candidates for the position. If he is selected in this round, he will move forward to the next round, which will be technical. Their team will reach out and provide an update in a couple of weeks."
+        },
+        {
+          "Interview Date": "2025-02-07",
+          "Branch": "GGR",
+          "Start Time": "3:00 PM EST",
+          "End Time": "5:00 PM EST",
+          "Company": "Amazon",
+          "Round": "Final",
+          "Actual Round": "Final",
+          "Feedback": "The interview was good. In the first part, the interviewer asked technical and behavioral questions, which he answered well. Then, they gave him a coding challenge, which he also did well on. He explained the coding part effectively. In the second part, they gave him more coding questions. He performed well, but he made a few mistakes. I also faced an issue during this part because I couldn't see the candidate's screen. This was because the candidate was using a Mac, which caused compatibility problems. The scenario was that when the candidate shared their screen, we could only see the particular tab they were sharing. The interviewer shared a link that opened in another window at that time, so I had trouble seeing the code. But overall, the interview went well."
+        },
+        {
+          "Interview Date": "2025-02-11",
+          "Branch": "GGR",
+          "Start Time": "10:00 AM EST",
+          "End Time": "11:00 AM EST",
+          "Company": "Amazon",
+          "Round": "Final",
+          "Actual Round": "Final",
+          "Feedback": "The interview was good. They asked him coding questions based on Java, which he handled well, and he wrote the code. However, the candidate wasn't very good; he was Totally dependent on me. He couldn't handle the first few minutes, just stopping and doing nothing. When I shared the necessary information, he still didn't do anything. Ideally, the candidate should have started something themselves, at least reading the questions and so on, instead of wasting interview time. This time was valuable for us to provide him with the necessary information."
+        }
+      ]
+    },
     "Prateek Narvariya": {
       "expert_category": 0,
       "interviews": [
@@ -2328,6 +2573,61 @@
           "Round": "1st",
           "Actual Round": "1st",
           "Feedback": "This was a basic technical round that primarily focused on the candidate's resume and technical questions related to the candidate's tech stack, mostly involving the SDET role. A few behavioral questions were also asked, and the candidate referred to the document to provide answers"
+        }
+      ]
+    },
+    "Souvik Debnath": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-13",
+          "Branch": "GGR",
+          "Start Time": "11:15 AM EST",
+          "End Time": "2:15 PM EST",
+          "Company": "Meta",
+          "Round": "Final",
+          "Actual Round": "Final",
+          "Feedback": "This interview consists one system design and one behavioral round. In system design part, interviewer asks about one design and some follow up questions from that. candidate able to answer all follow-up questions by following the document and in behavioral round, Interviewer asks some situational questions and candidate answered all of them well. The rest part of this round will be occurred in 20th January."
+        },
+        {
+          "Interview Date": "2025-01-17",
+          "Branch": "GGR",
+          "Start Time": "4:00 PM EST",
+          "End Time": "5:00 PM EST",
+          "Company": "Oracle",
+          "Round": "Technical",
+          "Actual Round": "Technical",
+          "Feedback": "Candidate able to write both codes that passed all test cases by following the docs and also able to explain that perfectly. Candidate also able to answer all past experience related questions. After this there will be couple of rounds."
+        },
+        {
+          "Interview Date": "2025-01-20",
+          "Branch": "GGR",
+          "Start Time": "10:00 AM EST",
+          "End Time": "11:45 AM EST",
+          "Company": "Meta",
+          "Round": "Final",
+          "Actual Round": "Final",
+          "Feedback": "This interview consists 2 rounds of coding interview. In both interview candidate able to write 2 codes and able to give a good example work through. Candidate also explains all the codes perfectly."
+        },
+        {
+          "Interview Date": "2025-01-24",
+          "Branch": "GGR",
+          "Start Time": "1:00 PM EST",
+          "End Time": "2:00 PM EST",
+          "Company": "Amazon",
+          "Round": "Technical",
+          "Actual Round": "Technical",
+          "Feedback": "Interviewer asks some situational questions and one coding exercise. Candidate able to answer all the questions and also able to answer all follow-up questions asked from interviewer. Candidate able to write the code as well as able to explain the code perfectly."
+        },
+        {
+          "Interview Date": "2025-01-24",
+          "Branch": "GGR",
+          "Start Time": "4:00 PM EST",
+          "End Time": "5:00 PM EST",
+          "Company": "Oracle",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "Interview goes average. Interviewer asks about several questions from past experience and Candidate answered all of them but due to frequently cross questions got fumbled little bit some times."
         }
       ]
     }
@@ -2384,9 +2684,39 @@
           "Feedback": "The interviewer asked some basic questions related to the candidate's experience. The candidate provided answers, but they were brief and lacked detail. He needs to give more appropriate and detailed answers."
         }
       ]
+    },
+    "Yash Maru": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-20",
+          "Branch": "GGR",
+          "Start Time": "2:30 PM EST",
+          "End Time": "3:30 PM EST",
+          "Company": "hioperator",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Candidate delivering is bit slow as his response time needs to improve else it went well."
+        }
+      ]
     }
   },
   "Nehal Ghugare": {
+    "Aayush Shukla": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-27",
+          "Branch": "GGR",
+          "Start Time": "2:00 PM EST",
+          "End Time": "3:00 PM EST",
+          "Company": "Amazon",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Nehal provided detailed answers, demonstrating strong technical knowledge and problem-solving skills, particularly in project management and data integration. However, the language barrier affected the clarity of some responses, making it harder to follow at times. Despite this, Nehal effectively explained challenges faced and the steps taken to address them. There is a good possibility of moving to the next round, but improving communication and providing more concise answers will enhance the chances."
+        }
+      ]
+    },
     "Darshan Singh": {
       "expert_category": 0,
       "interviews": [
@@ -2399,6 +2729,46 @@
           "Round": "1st",
           "Actual Round": "Screening",
           "Feedback": "It was a basic screening call where they just asked the candidate a couple of behavioral questions which he answered well by referring the document."
+        }
+      ]
+    },
+    "Devendra Patel": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-30",
+          "Branch": "GGR",
+          "Start Time": "12:00 PM EST",
+          "End Time": "12:30 PM EST",
+          "Company": "Walmart",
+          "Round": "1st",
+          "Actual Round": "ScreenUP",
+          "Feedback": "It's like a screening round and Interview went well. interviewer asked some behavioral questions , candidate answered all of them perfectly."
+        },
+        {
+          "Interview Date": "2025-01-30",
+          "Branch": "GGR",
+          "Start Time": "2:30 PM EST",
+          "End Time": "3:00 PM EST",
+          "Company": "Aig",
+          "Round": "1st",
+          "Actual Round": "ScreenUP",
+          "Feedback": "It's like a screening round and Interview went well. interviewer asked some behavioral questions , candidate answered all of them perfectly."
+        }
+      ]
+    },
+    "Nikesh Raj": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-06",
+          "Branch": "GGR",
+          "Start Time": "1:00 PM EST",
+          "End Time": "2:00 PM EST",
+          "Company": "Aig",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "The session was good. He delivered answers from the document and his own answers as well. If proceeds, there'll be a third round that'll be more technical."
         }
       ]
     },
@@ -2719,6 +3089,21 @@
           "Feedback": "The interviewer asked some basic questions and then asked the candidate to write some code. The questions were successfully solved. Let's wait for the update"
         }
       ]
+    },
+    "Koushiki": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-19",
+          "Branch": "AHM",
+          "Start Time": "2:00 PM EST",
+          "End Time": "2:30 PM EST",
+          "Company": "zAnswer LLC",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Interview was going well. Interviewer said that they will conduct another round of interview."
+        }
+      ]
     }
   },
   "Praneeth Kumar Sheshala": {
@@ -2756,6 +3141,36 @@
     }
   },
   "Prathusha Kallem": {
+    "Aayush Shukla": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-05",
+          "Branch": "AHM1",
+          "Start Time": "4:00 PM EST",
+          "End Time": "5:00 PM EST",
+          "Company": "H&R block",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "You provided clear, structured, and well-thought-out answers throughout the interview, showcasing your technical expertise in Power BI and SQL, as well as your problem-solving skills. Your proactive approach to unfamiliar situations and eagerness to learn were evident, and you demonstrated a strong collaborative mindset. Based on your responses, there\u2019s a good possibility of advancing to the next round, as your experience and attitude align well with the role. Your questions showed thoughtfulness and a genuine interest in understanding the role fully, which is a positive indicator for your candidacy."
+        }
+      ]
+    },
+    "Hamid Ansari": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-06",
+          "Branch": "AHM1",
+          "Start Time": "4:00 PM EST",
+          "End Time": "4:30 PM EST",
+          "Company": "H&R block",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "I wanted to share feedback on Prathusha Kallem\u2019s interview. She provided clear, well-structured, and precise responses to all questions, demonstrating a strong understanding of data analysis, Power BI, and data-driven decision-making. Her ability to articulate complex concepts in a concise manner stood out, and she effectively tackled real-world scenarios with logical problem-solving approaches."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -2773,6 +3188,21 @@
     }
   },
   "Pratyush Mohan": {
+    "Aayush Shukla": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-09",
+          "Branch": "GGR",
+          "Start Time": "12:00 PM EST",
+          "End Time": "12:30 PM EST",
+          "Company": "Molina Healthcare",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Pratyush Mohan demonstrated a good understanding of the job role and clearly outlined his technical skills, particularly in SQL and DataBricks. His responses were solid, but could benefit from more depth, especially regarding the outcomes and impact of his work. While he showcased the necessary experience, adding concrete examples of how his actions directly contributed to business success would strengthen his candidacy. Overall, there is a high possibility of moving to the next round, especially if he elaborates more on specific results and achievements in future interviews."
+        }
+      ]
+    },
     "Darshan Singh": {
       "expert_category": 0,
       "interviews": [
@@ -2785,6 +3215,21 @@
           "Round": "1st",
           "Actual Round": "1st",
           "Feedback": "The interview went well the candidate was referring the document."
+        }
+      ]
+    },
+    "Harsh Patel": {
+      "expert_category": 0,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-17",
+          "Branch": "GGR",
+          "Start Time": "12:30 PM EST",
+          "End Time": "1:00 PM EST",
+          "Company": "Catalyst Group",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "The interview did not go well as the interviewer requested the candidate to complete the test by taking control via a team meeting. This process was hectic and experienced significant lag. Additionally, the visibility from my end was poor, making it difficult for me to support the candidate effectively. Due to these challenges, the candidate requested the HR team to conduct the interview on-site, as it was nearly impossible to complete the assessment remotely and for me to provide adequate assistance."
         }
       ]
     },
@@ -3032,6 +3477,66 @@
           "Feedback": "The interviewer asked questions related to the job description and the candidate's resume. They mostly spoke in their native language. The candidate provides all the answers . Now, let's wait for the update."
         }
       ]
+    },
+    "Harender Singh": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-29",
+          "Branch": "LKN",
+          "Start Time": "1:30 PM EST",
+          "End Time": "2:00 PM EST",
+          "Company": "Oracle",
+          "Round": "1st",
+          "Actual Round": "ScreenUP",
+          "Feedback": "As this was a screening round, the interviewer didn't ask many questions. They asked a few basic questions, which he answered well. They will conduct the next round in a couple of weeks."
+        },
+        {
+          "Interview Date": "2025-01-29",
+          "Branch": "LKN",
+          "Start Time": "2:30 PM EST",
+          "End Time": "3:00 PM EST",
+          "Company": "Shipt",
+          "Round": "Screening",
+          "Actual Round": "ScreenUP",
+          "Feedback": "As this was a screening round, the interviewer didn't ask many questions. They asked a few basic questions, which he answered well. They will conduct the next round in a couple of weeks."
+        }
+      ]
+    },
+    "Yash Maru": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-07",
+          "Branch": "LKN",
+          "Start Time": "2:00 PM EST",
+          "End Time": "3:00 PM EST",
+          "Company": "Cambridge Mobile Telematics",
+          "Round": "Technical",
+          "Actual Round": "ScreenUP",
+          "Feedback": "candidate delivered well as addressed all question after this there is technical screening then a face-to-face interview then a final system design round."
+        },
+        {
+          "Interview Date": "2025-02-14",
+          "Branch": "LKN",
+          "Start Time": "10:30 AM EST",
+          "End Time": "11:30 AM EST",
+          "Company": "Shipt",
+          "Round": "Final",
+          "Actual Round": "Technical",
+          "Feedback": "candidate performed well as from interviewer side this call is divide in two-part half hour each so half one is done remaining will be schedule further."
+        },
+        {
+          "Interview Date": "2025-02-19",
+          "Branch": "LKN",
+          "Start Time": "4:00 PM EST",
+          "End Time": "4:45 PM EST",
+          "Company": "Shipt",
+          "Round": "Final",
+          "Actual Round": "Technical",
+          "Feedback": "Candidate performed well he delivered answers even after shared his screen so we can expect next loop round."
+        }
+      ]
     }
   },
   "Raja Manohar Reddy": {
@@ -3067,6 +3572,31 @@
           "Round": "1st",
           "Actual Round": "1st",
           "Feedback": "This was a Phone call to gather more information about the candidate. The discussion focused on the candidate's visa status, salary expectations, and a few questions about their previous work experience."
+        }
+      ]
+    },
+    "Harender Singh": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-24",
+          "Branch": "LKN",
+          "Start Time": "11:00 AM EST",
+          "End Time": "11:30 AM EST",
+          "Company": "Cambridge Mobile Telematics",
+          "Round": "Screening",
+          "Actual Round": "1st",
+          "Feedback": "The Interview went well the interviewer asked questions, and he did well the interviewer said if you are selected for this round the next round will be technical of 45 minutes do prepare yourself we will connect you and give you an update."
+        },
+        {
+          "Interview Date": "2025-01-24",
+          "Branch": "LKN",
+          "Start Time": "1:30 PM EST",
+          "End Time": "2:00 PM EST",
+          "Company": "Front",
+          "Round": "Screening",
+          "Actual Round": "Screening",
+          "Feedback": "The Interview was good, and the Interviewer asked a few questions he expected but there were a few questions he didn't explain well. This was a Screening call and he said, \"Okay, we will update you in the next few weeks."
         }
       ]
     }
@@ -3185,6 +3715,31 @@
           "Round": "1st",
           "Actual Round": "Screening",
           "Feedback": "This was a screening call only as the interviewer just asked the candidate about the past work experiences and just asked them 1 technical question of SQL which was answered by him by referring the document."
+        }
+      ]
+    },
+    "Nikesh Raj": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-28",
+          "Branch": "AHM1",
+          "Start Time": "4:15 PM EST",
+          "End Time": "4:45 PM EST",
+          "Company": "New Fitzco",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "It was a phone call. She asked couple of basic questions and there'll be one final round after this as they're looking to fill the role ASAP."
+        },
+        {
+          "Interview Date": "2025-02-03",
+          "Branch": "AHM1",
+          "Start Time": "1:30 PM EST",
+          "End Time": "2:00 PM EST",
+          "Company": "Primrose School Franchising Company",
+          "Round": "1st",
+          "Actual Round": "Screening",
+          "Feedback": "It was a phone call. Recruiter asked couple of basic questions about the work experience and work authorization. If proceeds, the next round will be with the hiring manager."
         }
       ]
     },
@@ -3585,6 +4140,76 @@
           "Round": "1st",
           "Actual Round": "ScreenUP",
           "Feedback": "The candidate informed me that she is going to attend the interview on her own as it was just a screening round and she can handle that on her own."
+        }
+      ]
+    },
+    "Harender Singh": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-14",
+          "Branch": "GGR",
+          "Start Time": "10:30 AM EST",
+          "End Time": "11:00 AM EST",
+          "Company": "Oracle",
+          "Round": "1st",
+          "Actual Round": "Screening",
+          "Feedback": "This is a Screening call and the interviewers were only explaining the process and asked a few basic questions they will take the next round in a couple of weeks."
+        },
+        {
+          "Interview Date": "2025-01-24",
+          "Branch": "GGR",
+          "Start Time": "12:00 PM EST",
+          "End Time": "1:00 PM EST",
+          "Company": "Oracle",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "The interview was good, or rather, it seemed good. We thought it went well. The interviewer asked questions based on the candidate's skills and also gave two technical questions. They went deep into those questions, and the candidate didn't explain perfectly. Perhaps the interviewer was interested; the interview went over the time mentioned in the email. They said they would update us within a couple of weeks."
+        }
+      ]
+    },
+    "Koushiki": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-31",
+          "Branch": "GGR",
+          "Start Time": "2:30 PM EST",
+          "End Time": "3:30 PM EST",
+          "Company": "Oracle",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Interviewer said that this job role is specifically open to those who have United States citizenship. Thats why she was not eligible."
+        }
+      ]
+    },
+    "Souvik Debnath": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-18",
+          "Branch": "GGR",
+          "Start Time": "11:00 AM EST",
+          "End Time": "3:30 PM EST",
+          "Company": "CAPITAL ONE",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "Interview goes well. This interview consists of total 4 rounds of interview."
+        }
+      ]
+    },
+    "Yash Maru": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-10",
+          "Branch": "GGR",
+          "Start Time": "1:00 PM EST",
+          "End Time": "1:45 PM EST",
+          "Company": "Meta",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "there are 2 coding questions and candidate successfully delivered both as there is delay in second one but she completed that so overall it went well."
         }
       ]
     }
@@ -4105,6 +4730,21 @@
         }
       ]
     },
+    "Nikesh Raj": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-03",
+          "Branch": "GGR",
+          "Start Time": "12:00 PM EST",
+          "End Time": "12:30 PM EST",
+          "Company": "EnDyna",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "It was her first time taking the support but still she performed well and followed the document carefully. If proceeds, there'll be two more rounds."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -4189,6 +4829,21 @@
     }
   },
   "Shreya Jaiswal": {
+    "Harender Singh": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-05",
+          "Branch": "GGR",
+          "Start Time": "1:00 PM EST",
+          "End Time": "1:30 PM EST",
+          "Company": "LG Ads",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "The Interview went well and the interviewer asked questions based on her resume she explained and everything in detail and also, she has good knowledge of her domain The interviewer said she would reach out to her in a couple of weeks and give you update and they said I will share with your assessment and I we will take a round."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -4201,6 +4856,21 @@
           "Round": "1st",
           "Actual Round": "ScreenUP",
           "Feedback": "It was a basic screening call in which interviewer wants to know more about the candidate."
+        }
+      ]
+    },
+    "Yash Maru": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-18",
+          "Branch": "GGR",
+          "Start Time": "2:00 PM EST",
+          "End Time": "2:45 PM EST",
+          "Company": "Car Shield",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "candidate didn't perform well but she got another chance from car"
         }
       ]
     }
@@ -4326,6 +4996,21 @@
           "Feedback": "This round was divided into two parts: Behavioral & Design."
         }
       ]
+    },
+    "Souvik Debnath": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-14",
+          "Branch": "GGR",
+          "Start Time": "3:30 PM EST",
+          "End Time": "4:15 PM EST",
+          "Company": "Salesforce",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Interview goes average. Interviewer asks some situational questions from past experience. Candidate answered all of the questions by own. Sometimes candidates provide too long irrelevant information and some answers are general."
+        }
+      ]
     }
   },
   "Siva Ganesh Sai Surya": {
@@ -4400,6 +5085,101 @@
     }
   },
   "Smriti Pradhan": {
+    "Kartikeya Baijal": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-09",
+          "Branch": "AHM",
+          "Start Time": "10:30 AM EST",
+          "End Time": "11:00 AM EST",
+          "Company": "Metropolitan Airports Commission",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "They asked her some behavioral questions, but they mentioned that the next round would be onsite if she is selected."
+        },
+        {
+          "Interview Date": "2025-01-21",
+          "Branch": "LKN",
+          "Start Time": "12:30 PM EST",
+          "End Time": "1:15 PM EST",
+          "Company": "Metropolitan Airports Commission",
+          "Round": "Technical",
+          "Actual Round": "Technical",
+          "Feedback": "but Smriti needs to work on her vocabulary skills, particularly with the pronunciation of technical terminologies. Additionally, while presenting documents, she should incorporate hand gestures to make her delivery seem more natural."
+        },
+        {
+          "Interview Date": "2025-01-24",
+          "Branch": "LKN",
+          "Start Time": "1:00 PM EST",
+          "End Time": "1:30 PM EST",
+          "Company": "DAHL",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "she was confident in answering all the questions. It was a telephone interview, and one more thing: please discuss salary expectations with the candidate beforehand. The company is offering $30-35 per hour, but she mentioned an expectation of $40-45 per hour. It\u2019s important to clarify this before moving forward."
+        },
+        {
+          "Interview Date": "2025-01-27",
+          "Branch": "LKN",
+          "Start Time": "3:00 PM EST",
+          "End Time": "3:30 PM EST",
+          "Company": "IMA Financial Group",
+          "Round": "1st",
+          "Actual Round": "Screening",
+          "Feedback": "The interview went well; she was able to answer all the screening questions that were asked."
+        },
+        {
+          "Interview Date": "2025-01-30",
+          "Branch": "LKN",
+          "Start Time": "4:15 PM EST",
+          "End Time": "5:00 PM EST",
+          "Company": "IMA Financial Group",
+          "Round": "Technical",
+          "Actual Round": "Technical",
+          "Feedback": "She was confident in answering all the questions that were asked. There will be more interview rounds as well. Hope for the best!"
+        },
+        {
+          "Interview Date": "2025-02-07",
+          "Branch": "LKN",
+          "Start Time": "4:00 PM EST",
+          "End Time": "4:45 PM EST",
+          "Company": "Natera",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Smriti needs to work on her vocabulary as she sometimes misspells words. Overall, it went well. If I get selected for the next round, it will likely focus on SQL and Python."
+        },
+        {
+          "Interview Date": "2025-02-10",
+          "Branch": "LKN",
+          "Start Time": "2:45 PM EST",
+          "End Time": "3:10 PM EST",
+          "Company": "Twilio",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "She followed along with the document, but she still needs to work on her vocabulary skills."
+        },
+        {
+          "Interview Date": "2025-02-13",
+          "Branch": "LKN",
+          "Start Time": "1:00 PM EST",
+          "End Time": "1:45 PM EST",
+          "Company": "Twilio",
+          "Round": "Technical",
+          "Actual Round": "1st",
+          "Feedback": "The interview went well. She was confident in answering the questions asked and followed the document this time. She has improved her communication skills\u2014let's hope for the best!"
+        },
+        {
+          "Interview Date": "2025-02-13",
+          "Branch": "LKN",
+          "Start Time": "2:00 PM EST",
+          "End Time": "2:30 PM EST",
+          "Company": "Proag",
+          "Round": "1st",
+          "Actual Round": "Screening",
+          "Feedback": "The interview went well; it was a screening call."
+        }
+      ]
+    },
     "Rujuwal Garg": {
       "expert_category": 0,
       "interviews": [
@@ -4422,6 +5202,21 @@
           "Round": "1st",
           "Actual Round": "1st",
           "Feedback": "The candidate referred to the document and communicated the answers clearly."
+        }
+      ]
+    },
+    "Umang Pandya": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-20",
+          "Branch": "LKN",
+          "Start Time": "2:00 PM EST",
+          "End Time": "2:45 PM EST",
+          "Company": "Natera",
+          "Round": "Technical",
+          "Actual Round": "Technical",
+          "Feedback": "However there were certain areas Smriti has to work on. During the interview at the time while speaking about a query she said Date instead of Data which could change the whole query. She should work on the enunciation after reading it. The interviewer however was satisfied about the SQL queries and hope fully we will go to the next round."
         }
       ]
     }
@@ -4518,6 +5313,101 @@
           "Round": "1st",
           "Actual Round": "1st",
           "Feedback": "This was a sales role and the candidate's profile did not align with that."
+        }
+      ]
+    },
+    "Nikesh Raj": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-14",
+          "Branch": "GGR",
+          "Start Time": "11:00 AM EST",
+          "End Time": "11:30 PM EST",
+          "Company": "Aston Carter",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "She delivered the answers carefully and the next round is On-site."
+        },
+        {
+          "Interview Date": "2025-01-15",
+          "Branch": "GGR",
+          "Start Time": "12:00 PM EST",
+          "End Time": "12:30 PM EST",
+          "Company": "Global Pay",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "The session was good. She delivered the answers carefully. If proceeded, there will be one more round."
+        },
+        {
+          "Interview Date": "2025-01-21",
+          "Branch": "GGR",
+          "Start Time": "12:00 PM EST",
+          "End Time": "12:30 PM EST",
+          "Company": "AO Globe Life",
+          "Round": "Final",
+          "Actual Round": "Final",
+          "Feedback": "This turned out to be a group discussion first. But even for the interview after that, nobody joined for the one-on-one session. Srilatha also mentioned that she is no more interested in this position so we ended the call."
+        },
+        {
+          "Interview Date": "2025-01-27",
+          "Branch": "GGR",
+          "Start Time": "9:30 AM EST",
+          "End Time": "10:30 AM EST",
+          "Company": "Munich",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "The session was good. It was more of a informal session as the interviewers were not from very technical background and they didn't have much questions for her. It was more of a conversation."
+        },
+        {
+          "Interview Date": "2025-01-29",
+          "Branch": "GGR",
+          "Start Time": "11:15 AM EST",
+          "End Time": "11:45 AM EST",
+          "Company": "Citi",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "She needs to work more on delivering the answers in detail. The interviewer's confirmed that this is the final round as they won't conduct any further rounds."
+        },
+        {
+          "Interview Date": "2025-01-30",
+          "Branch": "GGR",
+          "Start Time": "1:00 PM EST",
+          "End Time": "1:30 PM EST",
+          "Company": "Vanderbilt University Medical Center",
+          "Round": "1st",
+          "Actual Round": "ScreenUP",
+          "Feedback": "It was an initial screening where the recruiter asked couple of basic questions."
+        },
+        {
+          "Interview Date": "2025-02-04",
+          "Branch": "GGR",
+          "Start Time": "11:30 AM EST",
+          "End Time": "12:00 PM EST",
+          "Company": "UT Health",
+          "Round": "1st",
+          "Actual Round": "ScreenUP",
+          "Feedback": "It was a quick screening session. Recruiter asked couple of basic questions. If proceeds, the next round will be with the hiring manager and after that there'll be loop rounds."
+        },
+        {
+          "Interview Date": "2025-02-06",
+          "Branch": "GGR",
+          "Start Time": "9:30 AM EST",
+          "End Time": "10:00 AM EST",
+          "Company": "Accelerated Management",
+          "Round": "1st",
+          "Actual Round": "ScreenUP",
+          "Feedback": "It was an initial screening. There were 3 other candidates as well. The second round is a walk in interview, it involves customer service & sales which is something candidate isn't interested in."
+        },
+        {
+          "Interview Date": "2025-02-10",
+          "Branch": "GGR",
+          "Start Time": "12:00 PM EST",
+          "End Time": "1:00 PM EST",
+          "Company": "Roswell Park Cancer Institute Corporation",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "The session was good. However, she could've delivered the answers in more detail but she framed & delivered them correctly overall and didn't get stuck anywhere. If proceeds, there'll be a second & final round of interview with the vice president of the finance department."
         }
       ]
     }
@@ -4694,7 +5584,8 @@
     "Abhinab Sarkar": {
       "expert_category": 0,
       "interviews": [
-                {
+        
+        {
           "Interview Date": "2025-02-05",
           "Branch": "AHM",
           "Start Time": "11:00 AM EST",
@@ -4735,6 +5626,41 @@
     }
   },
   "Vamsi Tallam": {
+    "Aayush Shukla": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-01-08",
+          "Branch": "AHM",
+          "Start Time": "2:00 PM EST",
+          "End Time": "2:30 PM EST",
+          "Company": "Accenture",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "The candidate demonstrated strong knowledge of machine learning models, including Logistic Regression, Random Forest, and collaborative filtering, with clear explanations of assumptions, loss functions, and regularization techniques. They provided practical insights into model deployment and evaluation, including handling data preprocessing, feature scaling, and model selection. Their understanding of metrics for fraud detection and PCA application was solid. The candidate's ability to engage with questions and offer relevant examples indicates good potential for the next round. Overall, they showed both technical proficiency and practical problem-solving skills."
+        },
+        {
+          "Interview Date": "2025-01-09",
+          "Branch": "AHM",
+          "Start Time": "4:30 PM EST",
+          "End Time": "5:00 PM EST",
+          "Company": "JPMC",
+          "Round": "2nd",
+          "Actual Round": "2nd",
+          "Feedback": "Vamsi Tallam demonstrated strong technical knowledge and practical experience with tools like AWS SageMaker, machine learning models, and data management. His answers were clear and well-structured, with concrete examples showing his problem-solving abilities. However, he could improve his fluency in English and simplify explanations for non-technical audiences. His proactive approach in asking relevant questions at the end of the interview highlighted his interest in the role. Based on his technical expertise, there's a high possibility of him advancing to the next round, though he should focus on improving communication for a stronger impact."
+        },
+        {
+          "Interview Date": "2025-01-21",
+          "Branch": "AHM",
+          "Start Time": "4:30 PM EST",
+          "End Time": "5:00 PM EST",
+          "Company": "JPMC",
+          "Round": "Final",
+          "Actual Round": "Final",
+          "Feedback": "The candidate demonstrated strong technical knowledge and practical experience, particularly in model troubleshooting and handling real-world projects like breast cancer diagnosis. While answers showcased effort and understanding, some lacked structure and depth in discussing challenges and techniques. Despite this, the overall performance suggests a good chance of advancing to the next round. For improvement, more concise, structured responses with quantified outcomes are recommended."
+        }
+      ]
+    },
     "Darshan Singh": {
       "expert_category": 0,
       "interviews": [
@@ -4764,6 +5690,31 @@
           "Round": "Final",
           "Actual Round": "Final",
           "Feedback": "The interview round went moderately as the candidate didn't have a good internet connection which led to multiple disconnections from the interview it took her several minutes to rejoin the interview and, in the end, she was unable to write the code properly."
+        }
+      ]
+    },
+    "Souvik Debnath": {
+      "expert_category": 1,
+      "interviews": [
+        {
+          "Interview Date": "2025-02-04",
+          "Branch": "GGR",
+          "Start Time": "2:00 PM EST",
+          "End Time": "3:00 PM EST",
+          "Company": "Paypal",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Interviewer asks 2 code review and 1 code. Candidate able to answer all code review questions and all follow up questions from them. Candidate able to write the correct but at the time of writing test cases candidate made lots of errors but at the end code provides correct output."
+        },
+        {
+          "Interview Date": "2025-02-20",
+          "Branch": "GGR",
+          "Start Time": "3:00 PM EST",
+          "End Time": "4:00 PM EST",
+          "Company": "Paypal",
+          "Round": "1st",
+          "Actual Round": "1st",
+          "Feedback": "Interviewer asks 2 coding questions and some technical questions from oops and database. Candidate able to write both codes that passed all test cases and candidate also able to answer all technical questions by following docs."
         }
       ]
     }
