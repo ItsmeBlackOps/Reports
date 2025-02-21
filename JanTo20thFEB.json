@@ -4694,17 +4694,7 @@
     "Abhinab Sarkar": {
       "expert_category": 0,
       "interviews": [
-        {
-          "Interview Date": "2025-01-22",
-          "Branch": "AHM",
-          "Start Time": NaN,
-          "End Time": NaN,
-          "Company": "Intuit Inc",
-          "Round": "Technical",
-          "Actual Round": "Technical",
-          "Feedback": " "
-        },
-        {
+                {
           "Interview Date": "2025-02-05",
           "Branch": "AHM",
           "Start Time": "11:00 AM EST",
