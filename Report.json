@@ -199,7 +199,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -234,7 +234,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -304,7 +304,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -315,7 +315,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -361,7 +361,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -772,7 +772,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": "The candidate demonstrated good knowledge of Databricks, PySpark, SQL, and data governance, with a solid understanding of joins, API processing, and security measures like data masking. However, some answers lacked depth and real-world implementation details, particularly in workflow automation, cluster optimization, and access control policies. While effort was evident, responses at times were generic and uncertain on advanced topics. If the role focuses on Databricks, PySpark, and SQL, the candidate has a moderate to high chance for the next round. However, if leadership, cloud automation, or deep architectural knowledge is required, further improvement is needed. Strengthening hands-on project examples and providing clearer explanations of security and orchestration concepts will help improve performance."
+                                    "feedback": "The candidate demonstrated good knowledge of Databricks, PySpark, SQL, and data gover"NaN"ce, with a solid understanding of joins, API processing, and security measures like data masking. However, some answers lacked depth and real-world implementation details, particularly in workflow automation, cluster optimization, and access control policies. While effort was evident, responses at times were generic and uncertain on advanced topics. If the role focuses on Databricks, PySpark, and SQL, the candidate has a moderate to high chance for the next round. However, if leadership, cloud automation, or deep architectural knowledge is required, further improvement is needed. Strengthening hands-on project examples and providing clearer explanations of security and orchestration concepts will help improve performance."
                                 }
                             ]
                         ]
@@ -985,7 +985,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1002,7 +1002,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1292,7 +1292,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1314,7 +1314,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1411,7 +1411,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1446,7 +1446,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1568,7 +1568,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1777,7 +1777,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1794,7 +1794,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -1840,7 +1840,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2265,7 +2265,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2319,11 +2319,11 @@
                             [
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 },
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2385,7 +2385,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2458,7 +2458,7 @@
                             [
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2497,7 +2497,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2525,7 +2525,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2557,7 +2557,7 @@
                                 },
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2568,7 +2568,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2585,7 +2585,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2602,7 +2602,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2647,7 +2647,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2710,7 +2710,7 @@
                             [
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2727,7 +2727,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -2853,7 +2853,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -3157,7 +3157,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -3450,7 +3450,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -3659,7 +3659,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -3780,7 +3780,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -3815,7 +3815,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -3860,7 +3860,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -3894,7 +3894,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -3991,7 +3991,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -4771,7 +4771,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -4810,7 +4810,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -4986,7 +4986,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -5177,7 +5177,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -5345,7 +5345,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -5450,7 +5450,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -5807,7 +5807,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -5877,7 +5877,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -6422,7 +6422,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -6526,7 +6526,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -6560,12 +6560,12 @@
                         "interviews": [
                             [
                                 {
-                                    "actual round": NaN,
-                                    "feedback": NaN
+                                    "actual round": "NaN",
+                                    "feedback": "NaN"
                                 },
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -6617,7 +6617,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -6829,7 +6829,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7107,7 +7107,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7124,7 +7124,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7141,7 +7141,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7158,7 +7158,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7175,7 +7175,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7262,7 +7262,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7395,7 +7395,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7412,7 +7412,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7516,7 +7516,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7727,7 +7727,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -7967,7 +7967,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8065,7 +8065,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8082,7 +8082,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8117,7 +8117,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8162,7 +8162,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8179,7 +8179,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8207,7 +8207,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8675,7 +8675,7 @@
                 ]
             },
             {
-                "company": "Toyota Financial Services",
+                "company": "Toyota Fi"NaN"cial Services",
                 "is_po": false,
                 "interview_dates": [
                     {
@@ -8754,7 +8754,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8787,8 +8787,8 @@
                         "interviews": [
                             [
                                 {
-                                    "actual round": NaN,
-                                    "feedback": NaN
+                                    "actual round": "NaN",
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -8805,7 +8805,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9001,7 +9001,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9012,7 +9012,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9057,7 +9057,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9245,7 +9245,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9262,7 +9262,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9307,7 +9307,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9324,7 +9324,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9386,7 +9386,7 @@
         ]
     },
     {
-        "candidateName": "Kamal Kumar Kannan",
+        "candidateName": "Kamal Kumar Kan"NaN"",
         "expertName": "Devendra Patel",
         "is_in_po": false,
         "round_totals": {
@@ -9445,7 +9445,7 @@
                             [
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9483,7 +9483,7 @@
         ]
     },
     {
-        "candidateName": "Kamal Kumar Kannan",
+        "candidateName": "Kamal Kumar Kan"NaN"",
         "expertName": "Dhiraj Sharma",
         "is_in_po": false,
         "round_totals": {
@@ -9518,7 +9518,7 @@
         ]
     },
     {
-        "candidateName": "Kamal Kumar Kannan",
+        "candidateName": "Kamal Kumar Kan"NaN"",
         "expertName": "Kartikeya Baijal",
         "is_in_po": false,
         "round_totals": {
@@ -9553,7 +9553,7 @@
         ]
     },
     {
-        "candidateName": "Kamal Kumar Kannan",
+        "candidateName": "Kamal Kumar Kan"NaN"",
         "expertName": "Nikesh Raj",
         "is_in_po": false,
         "round_totals": {
@@ -9730,7 +9730,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9776,7 +9776,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9915,7 +9915,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -9949,7 +9949,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -10292,7 +10292,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -10397,7 +10397,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -10443,7 +10443,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -10537,7 +10537,7 @@
                 ]
             },
             {
-                "company": "Stellantis Financial",
+                "company": "Stellantis Fi"NaN"cial",
                 "is_po": false,
                 "interview_dates": [
                     {
@@ -10563,7 +10563,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -10667,7 +10667,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -10702,7 +10702,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -10737,7 +10737,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -10788,7 +10788,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": "The interviewer had a financial background and didn\u2019t ask many questions. It was a brief interview."
+                                    "feedback": "The interviewer had a fi"NaN"cial background and didn\u2019t ask many questions. It was a brief interview."
                                 }
                             ]
                         ]
@@ -10867,7 +10867,7 @@
         ]
     },
     {
-        "candidateName": "Laxmi Naarayanan Thirumalai",
+        "candidateName": "Laxmi Naaraya"NaN" Thirumalai",
         "expertName": "Devendra Patel",
         "is_in_po": false,
         "round_totals": {
@@ -10902,7 +10902,7 @@
         ]
     },
     {
-        "candidateName": "Laxmi Naarayanan Thirumalai",
+        "candidateName": "Laxmi Naaraya"NaN" Thirumalai",
         "expertName": "Yash Maru",
         "is_in_po": false,
         "round_totals": {
@@ -11042,7 +11042,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11209,7 +11209,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11272,7 +11272,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11307,7 +11307,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11438,7 +11438,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11449,7 +11449,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11495,7 +11495,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11702,7 +11702,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11713,7 +11713,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11781,7 +11781,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -11970,7 +11970,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -12228,7 +12228,7 @@
         ]
     },
     {
-        "candidateName": "Manan Jignesh Desai",
+        "candidateName": "Ma"NaN" Jignesh Desai",
         "expertName": "Bhavya Dutt",
         "is_in_po": false,
         "round_totals": {
@@ -12270,7 +12270,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -12342,7 +12342,7 @@
         ]
     },
     {
-        "candidateName": "Manan Jignesh Desai",
+        "candidateName": "Ma"NaN" Jignesh Desai",
         "expertName": "Hamid Ansari",
         "is_in_po": false,
         "round_totals": {
@@ -12384,7 +12384,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": "Manan Desai's interview for the Process Engineer position at TPI Composites was very successful. He effectively communicated his experience working with composites at Luxxeen America and Rieter India. While he didn\u2019t have extensive experience with infusion or prepreg materials, he demonstrated a strong understanding of general engineering processes."
+                                    "feedback": "Ma"NaN" Desai's interview for the Process Engineer position at TPI Composites was very successful. He effectively communicated his experience working with composites at Luxxeen America and Rieter India. While he didn\u2019t have extensive experience with infusion or prepreg materials, he demonstrated a strong understanding of general engineering processes."
                                 }
                             ]
                         ]
@@ -12401,7 +12401,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": "I wanted to provide a brief update regarding the interview with Manan Desai for the Manufacturing Engineer II position. Manan demonstrated strong technical knowledge, especially around production line efficiency and fixture design, based on his experience at Rieter India and Tata Group. He effectively tackled challenges, showing ownership and problem-solving abilities. Additionally, his adaptability and eagerness to learn new systems were evident, which will be valuable in this role. He also communicated well and showed a genuine commitment to quality and continuous improvement. We believe Manan would be a strong fit for the role, and he has the potential to contribute significantly to the team. We understand that a decision is expected in 2-3 weeks, and we are looking forward to hearing your thoughts on the next steps"
+                                    "feedback": "I wanted to provide a brief update regarding the interview with Ma"NaN" Desai for the Manufacturing Engineer II position. Ma"NaN" demonstrated strong technical knowledge, especially around production line efficiency and fixture design, based on his experience at Rieter India and Tata Group. He effectively tackled challenges, showing ownership and problem-solving abilities. Additionally, his adaptability and eagerness to learn new systems were evident, which will be valuable in this role. He also communicated well and showed a genuine commitment to quality and continuous improvement. We believe Ma"NaN" would be a strong fit for the role, and he has the potential to contribute significantly to the team. We understand that a decision is expected in 2-3 weeks, and we are looking forward to hearing your thoughts on the next steps"
                                 }
                             ]
                         ]
@@ -12418,7 +12418,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": "Manan demonstrated an impressive depth of knowledge and practical experience throughout the discussion. His responses were concise, insightful, and tailored to the requirements of the role. He articulated his expertise in areas such as quality improvement, process optimization, and project management with precision, drawing from his work on significant projects like the Tundra and Tacoma frame launches. His problem-solving approach, coupled with a strong focus on root cause analysis and countermeasure implementation, aligns well with the goals of operational excellence at the plant."
+                                    "feedback": "Ma"NaN" demonstrated an impressive depth of knowledge and practical experience throughout the discussion. His responses were concise, insightful, and tailored to the requirements of the role. He articulated his expertise in areas such as quality improvement, process optimization, and project management with precision, drawing from his work on significant projects like the Tundra and Tacoma frame launches. His problem-solving approach, coupled with a strong focus on root cause analysis and countermeasure implementation, aligns well with the goals of operational excellence at the plant."
                                 }
                             ]
                         ]
@@ -12428,7 +12428,7 @@
         ]
     },
     {
-        "candidateName": "Manan Jignesh Desai",
+        "candidateName": "Ma"NaN" Jignesh Desai",
         "expertName": "Harender Singh",
         "is_in_po": false,
         "round_totals": {
@@ -12463,7 +12463,7 @@
         ]
     },
     {
-        "candidateName": "Manas Anand Nissankara",
+        "candidateName": "Manas A"NaN"d Nissankara",
         "expertName": "Aayush Shukla",
         "is_in_po": false,
         "round_totals": {
@@ -12505,7 +12505,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": "The candidate demonstrated strong technical proficiency and clear communication throughout the interview. They provided structured, detailed answers that aligned well with the role's requirements, showcasing experience with tools like Morningstar, Power BI, Tableau, Snowflake, and SQL. The candidate highlighted their ability to collaborate with both data analysts and engineers, as well as their strategic approach to problem-solving. They also showed an understanding of financial data analysis and its impact on business decisions. Moving forward, the candidate should focus on emphasizing their alignment with Fidelity's core values, especially in areas like data governance and customer-centricity. Overall, the candidate has a high potential for progressing to the next round due to their relevant experience and skills"
+                                    "feedback": "The candidate demonstrated strong technical proficiency and clear communication throughout the interview. They provided structured, detailed answers that aligned well with the role's requirements, showcasing experience with tools like Morningstar, Power BI, Tableau, Snowflake, and SQL. The candidate highlighted their ability to collaborate with both data analysts and engineers, as well as their strategic approach to problem-solving. They also showed an understanding of fi"NaN"cial data analysis and its impact on business decisions. Moving forward, the candidate should focus on emphasizing their alignment with Fidelity's core values, especially in areas like data gover"NaN"ce and customer-centricity. Overall, the candidate has a high potential for progressing to the next round due to their relevant experience and skills"
                                 }
                             ]
                         ]
@@ -12526,7 +12526,7 @@
         ]
     },
     {
-        "candidateName": "Manas Anand Nissankara",
+        "candidateName": "Manas A"NaN"d Nissankara",
         "expertName": "Nikesh Raj",
         "is_in_po": false,
         "round_totals": {
@@ -12796,7 +12796,7 @@
                 ]
             },
             {
-                "company": "Georgia Student Finance Commission (GSFC)",
+                "company": "Georgia Student Fi"NaN"ce Commission (GSFC)",
                 "is_po": false,
                 "interview_dates": [
                     {
@@ -12822,7 +12822,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": "Firstly, they gave Excel sheet for assessment then they start interviewing. The candidate demonstrated strong technical expertise and problem-solving abilities, providing clear, structured answers with relevant examples. Their experience in data analysis, GIS, and leading projects aligned well with the role's responsibilities. They showed initiative in overcoming challenges, self-learning new tools, and addressing complex problems independently. The 5-year data strategy presented was thoughtful and well-aligned with departmental goals, emphasizing scalability, data governance, and community impact. Although the responses could be more concise, the candidate's efforts were impressive, making them a strong contender for the next round with a high likelihood of advancing."
+                                    "feedback": "Firstly, they gave Excel sheet for assessment then they start interviewing. The candidate demonstrated strong technical expertise and problem-solving abilities, providing clear, structured answers with relevant examples. Their experience in data analysis, GIS, and leading projects aligned well with the role's responsibilities. They showed initiative in overcoming challenges, self-learning new tools, and addressing complex problems independently. The 5-year data strategy presented was thoughtful and well-aligned with departmental goals, emphasizing scalability, data gover"NaN"ce, and community impact. Although the responses could be more concise, the candidate's efforts were impressive, making them a strong contender for the next round with a high likelihood of advancing."
                                 }
                             ]
                         ]
@@ -13112,7 +13112,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -13147,7 +13147,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -13268,7 +13268,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -13348,7 +13348,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -13470,7 +13470,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -13728,7 +13728,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -13922,7 +13922,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -14031,7 +14031,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -14152,7 +14152,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -14224,7 +14224,7 @@
         "cumulative_total": 2.0,
         "details": [
             {
-                "company": "Toyota Financial Systems",
+                "company": "Toyota Fi"NaN"cial Systems",
                 "is_po": false,
                 "interview_dates": [
                     {
@@ -14349,7 +14349,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -14700,7 +14700,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -14769,7 +14769,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -14906,7 +14906,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -14928,11 +14928,11 @@
                             [
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 },
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15037,7 +15037,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15159,7 +15159,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15211,7 +15211,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15472,7 +15472,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15559,7 +15559,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15627,7 +15627,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15725,7 +15725,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15760,7 +15760,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -15990,7 +15990,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -16176,7 +16176,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -16202,7 +16202,7 @@
         "cumulative_total": 4.0,
         "details": [
             {
-                "company": "Purpose Financial",
+                "company": "Purpose Fi"NaN"cial",
                 "is_po": false,
                 "interview_dates": [
                     {
@@ -16228,7 +16228,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -16250,7 +16250,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -16558,7 +16558,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -16663,7 +16663,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -16706,7 +16706,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -17405,7 +17405,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -17422,7 +17422,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -17782,7 +17782,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -17866,7 +17866,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -17936,7 +17936,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -17957,7 +17957,7 @@
         ]
     },
     {
-        "candidateName": "Priya Nandivada",
+        "candidateName": "Priya "NaN"divada",
         "expertName": "Aayush Shukla",
         "is_in_po": false,
         "round_totals": {
@@ -18009,7 +18009,7 @@
         ]
     },
     {
-        "candidateName": "Priya Nandivada",
+        "candidateName": "Priya "NaN"divada",
         "expertName": "Dhiraj Sharma",
         "is_in_po": false,
         "round_totals": {
@@ -18045,7 +18045,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18055,7 +18055,7 @@
         ]
     },
     {
-        "candidateName": "Priya Nandivada",
+        "candidateName": "Priya "NaN"divada",
         "expertName": "Nikesh Raj",
         "is_in_po": false,
         "round_totals": {
@@ -18091,7 +18091,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18126,7 +18126,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18211,7 +18211,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18575,7 +18575,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18586,7 +18586,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": "The candidate provided detailed and clear explanations of their experience, showcasing strong problem-solving skills and an ability to collaborate across teams, particularly with Finance and Warehouse. They highlighted their proactive approach in creating an automated solution to manage inactive inventory, focusing on both financial impact and operational efficiency. However, the candidate could improve by offering more concise answers and quantifying the outcomes of their projects for greater impact. Overall, they demonstrated relevant experience, technical skills, and initiative, making them a strong contender for the next round."
+                                    "feedback": "The candidate provided detailed and clear explanations of their experience, showcasing strong problem-solving skills and an ability to collaborate across teams, particularly with Fi"NaN"ce and Warehouse. They highlighted their proactive approach in creating an automated solution to manage inactive inventory, focusing on both fi"NaN"cial impact and operational efficiency. However, the candidate could improve by offering more concise answers and quantifying the outcomes of their projects for greater impact. Overall, they demonstrated relevant experience, technical skills, and initiative, making them a strong contender for the next round."
                                 }
                             ]
                         ]
@@ -18597,11 +18597,11 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": "Pulak Jain demonstrated relevant experience in trade promotions, sales finance, and data analysis, particularly with tools like Power BI and Excel. While he showed a good understanding of statistical methods like regression and forecasting, his communication in English was somewhat hesitant. He effectively connected his work at Legrand to the role but could provide more detailed examples. His technical skills align with the job requirements, though stronger communication may be needed for cross-functional collaboration. The potential for the next round is moderate, depending on the emphasis placed on communication skills."
+                                    "feedback": "Pulak Jain demonstrated relevant experience in trade promotions, sales fi"NaN"ce, and data analysis, particularly with tools like Power BI and Excel. While he showed a good understanding of statistical methods like regression and forecasting, his communication in English was somewhat hesitant. He effectively connected his work at Legrand to the role but could provide more detailed examples. His technical skills align with the job requirements, though stronger communication may be needed for cross-functional collaboration. The potential for the next round is moderate, depending on the emphasis placed on communication skills."
                                 },
                                 {
                                     "actual round": "Final",
-                                    "feedback": "Pulak Jain demonstrated relevant experience in trade promotions, sales finance, and data analysis, particularly with tools like Power BI and Excel. While he showed a good understanding of statistical methods like regression and forecasting, his communication in English was somewhat hesitant. He effectively connected his work at Legrand to the role but could provide more detailed examples. His technical skills align with the job requirements, though stronger communication may be needed for cross-functional collaboration. The potential for the next round is moderate, depending on the emphasis placed on communication skills."
+                                    "feedback": "Pulak Jain demonstrated relevant experience in trade promotions, sales fi"NaN"ce, and data analysis, particularly with tools like Power BI and Excel. While he showed a good understanding of statistical methods like regression and forecasting, his communication in English was somewhat hesitant. He effectively connected his work at Legrand to the role but could provide more detailed examples. His technical skills align with the job requirements, though stronger communication may be needed for cross-functional collaboration. The potential for the next round is moderate, depending on the emphasis placed on communication skills."
                                 }
                             ]
                         ]
@@ -18635,7 +18635,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": "Pulak demonstrated a solid understanding of technical concepts like AB testing, ETL pipelines, and Power BI, showcasing relevant skills for the role. His responses highlighted experience with workflow analysis and automation, but some lacked depth and specificity about personal contributions. He expressed clear career goals in the financial domain, aligning with the role, and showed genuine interest in leveraging vast financial datasets for decision-making. While his communication was clear, structuring responses with more precision and technical depth would enhance his candidacy. Pulak\u2019s efforts and alignment with the role make him a strong contender for the next round."
+                                    "feedback": "Pulak demonstrated a solid understanding of technical concepts like AB testing, ETL pipelines, and Power BI, showcasing relevant skills for the role. His responses highlighted experience with workflow analysis and automation, but some lacked depth and specificity about personal contributions. He expressed clear career goals in the fi"NaN"cial domain, aligning with the role, and showed genuine interest in leveraging vast fi"NaN"cial datasets for decision-making. While his communication was clear, structuring responses with more precision and technical depth would enhance his candidacy. Pulak\u2019s efforts and alignment with the role make him a strong contender for the next round."
                                 }
                             ]
                         ]
@@ -18870,7 +18870,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18905,7 +18905,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18940,7 +18940,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18951,7 +18951,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -18985,7 +18985,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19071,7 +19071,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19180,7 +19180,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19446,7 +19446,7 @@
                             [
                                 {
                                     "actual round": "Screening",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19463,7 +19463,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19498,7 +19498,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19568,7 +19568,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19614,7 +19614,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19625,7 +19625,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19740,7 +19740,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -19838,7 +19838,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20041,7 +20041,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20163,7 +20163,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20425,7 +20425,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20436,7 +20436,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20453,7 +20453,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20485,7 +20485,7 @@
                                 },
                                 {
                                     "actual round": "Technical",
-                                    "feedback": "This was a non-technical round, primarily focused on behavioral and company fit questions. The interviewer also shared details about the tech stack used in the current project and inquired whether the candidate had hands-on experience in credit card or finance-related projects. The candidate referred to the document to provide answers."
+                                    "feedback": "This was a non-technical round, primarily focused on behavioral and company fit questions. The interviewer also shared details about the tech stack used in the current project and inquired whether the candidate had hands-on experience in credit card or fi"NaN"ce-related projects. The candidate referred to the document to provide answers."
                                 }
                             ]
                         ]
@@ -20513,7 +20513,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20653,7 +20653,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20801,7 +20801,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20836,7 +20836,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -20962,7 +20962,7 @@
                             [
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -21066,7 +21066,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -21813,7 +21813,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -22075,7 +22075,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -22092,7 +22092,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -22103,7 +22103,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -22184,7 +22184,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -22387,7 +22387,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -22642,7 +22642,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -22942,7 +22942,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -22977,7 +22977,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -23163,7 +23163,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -23426,7 +23426,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -23443,7 +23443,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -23495,7 +23495,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -23833,7 +23833,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -23868,7 +23868,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -23885,7 +23885,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -23902,7 +23902,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -24149,7 +24149,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -24669,7 +24669,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -25084,7 +25084,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -25235,7 +25235,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -25270,7 +25270,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -25638,7 +25638,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -25649,7 +25649,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -25671,7 +25671,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -25699,7 +25699,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -25745,7 +25745,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -26011,7 +26011,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -26054,7 +26054,7 @@
                 ]
             },
             {
-                "company": "IMA Financial Group",
+                "company": "IMA Fi"NaN"cial Group",
                 "is_po": false,
                 "interview_dates": [
                     {
@@ -26258,7 +26258,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -26293,7 +26293,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -26713,7 +26713,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -27076,7 +27076,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -27461,7 +27461,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -27512,7 +27512,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": "The session was good. However, she could've delivered the answers in more detail but she framed & delivered them correctly overall and didn't get stuck anywhere. If proceeds, there'll be a second & final round of interview with the vice president of the finance department."
+                                    "feedback": "The session was good. However, she could've delivered the answers in more detail but she framed & delivered them correctly overall and didn't get stuck anywhere. If proceeds, there'll be a second & final round of interview with the vice president of the fi"NaN"ce department."
                                 }
                             ]
                         ]
@@ -27821,7 +27821,7 @@
                             [
                                 {
                                     "actual round": "3rd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -28156,7 +28156,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -28280,7 +28280,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -28378,7 +28378,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -28483,7 +28483,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -28581,7 +28581,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -28784,7 +28784,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -28854,7 +28854,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29005,7 +29005,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29075,7 +29075,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29092,7 +29092,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29393,11 +29393,11 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 },
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29432,7 +29432,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29548,11 +29548,11 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 },
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29630,7 +29630,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29774,7 +29774,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29883,7 +29883,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -29975,7 +29975,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -30010,7 +30010,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -30273,7 +30273,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -30377,7 +30377,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -30457,7 +30457,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -30525,7 +30525,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -30772,7 +30772,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -30807,7 +30807,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -30963,7 +30963,7 @@
                             [
                                 {
                                     "actual round": "2nd",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31067,7 +31067,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31119,7 +31119,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31136,7 +31136,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31147,7 +31147,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31158,7 +31158,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31169,7 +31169,7 @@
                             [
                                 {
                                     "actual round": "Final",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31186,7 +31186,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31197,7 +31197,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31268,7 +31268,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31279,7 +31279,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31388,7 +31388,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31434,7 +31434,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31625,7 +31625,7 @@
                             [
                                 {
                                     "actual round": "Technical",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
@@ -31833,7 +31833,7 @@
                             [
                                 {
                                     "actual round": "1st",
-                                    "feedback": NaN
+                                    "feedback": "NaN"
                                 }
                             ]
                         ]
