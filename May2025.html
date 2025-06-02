@@ -1,0 +1,533 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Technical Support Services Report - May 2025</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            background-color: #f5f7fa;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 40px;
+            border-radius: 10px;
+            text-align: center;
+            margin-bottom: 30px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+        }
+        
+        .header h1 {
+            font-size: 2.2em;
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+        
+        .header p {
+            font-size: 1.1em;
+            opacity: 0.9;
+        }
+        
+        .executive-summary {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+            border-left: 5px solid #1e3c72;
+        }
+        
+        .executive-summary h2 {
+            color: #1e3c72;
+            margin-bottom: 15px;
+            font-size: 1.5em;
+        }
+        
+        .key-message {
+            font-size: 1.1em;
+            color: #444;
+            line-height: 1.8;
+            margin-bottom: 15px;
+        }
+        
+        .kpi-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+        
+        .kpi-card {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+            text-align: center;
+            transition: transform 0.3s ease;
+        }
+        
+        .kpi-card:hover {
+            transform: translateY(-3px);
+        }
+        
+        .kpi-value {
+            font-size: 3em;
+            font-weight: 700;
+            color: #1e3c72;
+            margin-bottom: 5px;
+        }
+        
+        .kpi-label {
+            color: #666;
+            font-size: 1em;
+            font-weight: 500;
+        }
+        
+        .kpi-context {
+            color: #888;
+            font-size: 0.85em;
+            margin-top: 5px;
+        }
+        
+        .comparison-section {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+        
+        .month-comparison {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .month-card {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 8px;
+            text-align: center;
+            position: relative;
+        }
+        
+        .month-card.current {
+            border: 2px solid #1e3c72;
+            background: #f0f4f8;
+        }
+        
+        .month-name {
+            font-size: 1.3em;
+            color: #1e3c72;
+            font-weight: 600;
+            margin-bottom: 15px;
+        }
+        
+        .month-metric {
+            margin: 10px 0;
+        }
+        
+        .metric-number {
+            font-size: 2.2em;
+            font-weight: 700;
+            color: #333;
+        }
+        
+        .metric-desc {
+            color: #666;
+            font-size: 0.9em;
+            margin-top: 5px;
+        }
+        
+        .change-indicator {
+            display: inline-block;
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-size: 0.85em;
+            font-weight: 600;
+            margin-left: 8px;
+        }
+        
+        .positive {
+            background: #d4edda;
+            color: #155724;
+        }
+        
+        .negative {
+            background: #f8d7da;
+            color: #721c24;
+        }
+        
+        .section {
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            margin-bottom: 30px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.08);
+        }
+        
+        .section h2 {
+            color: #1e3c72;
+            margin-bottom: 20px;
+            font-size: 1.6em;
+            font-weight: 600;
+        }
+        
+        .section-intro {
+            color: #555;
+            font-size: 1.05em;
+            margin-bottom: 20px;
+            line-height: 1.7;
+        }
+        
+        .chart-container {
+            margin: 25px 0;
+            text-align: center;
+        }
+        
+        .chart-container img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+        }
+        
+        .insight-box {
+            background-color: #e8f0fe;
+            padding: 20px;
+            border-left: 4px solid #1e3c72;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .insight-box h3 {
+            color: #1e3c72;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+        
+        .warning-box {
+            background-color: #fff3cd;
+            padding: 20px;
+            border-left: 4px solid #ffa000;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .warning-box h3 {
+            color: #975a00;
+            margin-bottom: 10px;
+            font-size: 1.2em;
+        }
+        
+        .success-box {
+            background-color: #d4edda;
+            padding: 20px;
+            border-left: 4px solid #28a745;
+            margin: 20px 0;
+            border-radius: 4px;
+        }
+        
+        .team-insights {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+            margin: 20px 0;
+        }
+        
+        .team-card {
+            background: #f8f9fa;
+            padding: 20px;
+            border-radius: 8px;
+        }
+        
+        .team-card h4 {
+            color: #1e3c72;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+        
+        .simple-list {
+            list-style: none;
+            padding: 0;
+        }
+        
+        .simple-list li {
+            padding: 8px 0;
+            font-size: 1.05em;
+            color: #555;
+        }
+        
+        .action-item {
+            background: #f0f4f8;
+            padding: 15px 20px;
+            margin: 10px 0;
+            border-radius: 6px;
+            border-left: 4px solid #1e3c72;
+        }
+        
+        .action-item strong {
+            color: #1e3c72;
+            display: block;
+            margin-bottom: 5px;
+        }
+        
+        .footer {
+            text-align: center;
+            padding: 30px 20px;
+            color: #666;
+            font-size: 0.95em;
+            border-top: 1px solid #eee;
+            margin-top: 40px;
+        }
+        
+        @media print {
+            body {
+                background: white;
+            }
+            .section {
+                box-shadow: none;
+                break-inside: avoid;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>Technical Support Services Performance Report</h1>
+            <p>May 2025 - Interview to Placement Conversion Analysis</p>
+        </div>
+        
+        
+        
+        <div class="kpi-grid">
+            <div class="kpi-card">
+                <div class="kpi-value">749</div>
+                <div class="kpi-label">Interviews Supported</div>
+                <div class="kpi-context">Candidates provided technical assistance</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-value">37</div>
+                <div class="kpi-label">Successful Placements</div>
+                <div class="kpi-context">Converted to job offers</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-value">4.9%</div>
+                <div class="kpi-label">Conversion Success</div>
+                <div class="kpi-context">Marketing leads to placements</div>
+            </div>
+            <div class="kpi-card">
+                <div class="kpi-value">952</div>
+                <div class="kpi-label">Total Leads Received</div>
+                <div class="kpi-context">From marketing channels</div>
+            </div>
+        </div>
+        
+        <div class="comparison-section">
+            <h2>Quarterly Service Performance Comparison</h2>
+            <p class="section-intro">
+                Analyzing our technical support service delivery across Q2 2025 shows how effectively we're converting marketing-generated interview opportunities into successful candidate placements.
+            </p>
+            
+            <div class="month-comparison">
+                <div class="month-card">
+                    <div class="month-name">March 2025</div>
+                    <div class="month-metric">
+                        <div class="metric-number">756</div>
+                        <div class="metric-desc">Interviews Supported</div>
+                    </div>
+                    <div class="month-metric">
+                        <div class="metric-number">42</div>
+                        <div class="metric-desc">Placements (5.6% conversion)</div>
+                    </div>
+                    <div class="month-metric">
+                        <div class="metric-number">4.6%</div>
+                        <div class="metric-desc">Service Interruptions</div>
+                    </div>
+                </div>
+                
+                <div class="month-card">
+                    <div class="month-name">April 2025</div>
+                    <div class="month-metric">
+                        <div class="metric-number">835</div>
+                        <div class="metric-desc">Interviews <span class="change-indicator positive">Peak Month</span></div>
+                    </div>
+                    <div class="month-metric">
+                        <div class="metric-number">33</div>
+                        <div class="metric-desc">Placements (4.0% conversion)</div>
+                    </div>
+                    <div class="month-metric">
+                        <div class="metric-number">3.4%</div>
+                        <div class="metric-desc">Service Interruptions <span class="change-indicator positive">Best</span></div>
+                    </div>
+                </div>
+                
+                <div class="month-card current">
+                    <div class="month-name">May 2025 (Current)</div>
+                    <div class="month-metric">
+                        <div class="metric-number">749</div>
+                        <div class="metric-desc">Interviews Supported</div>
+                    </div>
+                    <div class="month-metric">
+                        <div class="metric-number">37</div>
+                        <div class="metric-desc">Placements (4.9% conversion)</div>
+                    </div>
+                    <div class="month-metric">
+                        <div class="metric-number">11.9%</div>
+                        <div class="metric-desc">Service Interruptions <span class="change-indicator negative">Critical</span></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="warning-box">
+                <h3>Service Delivery Challenge</h3>
+                <p><strong>Technical support engagement dropped significantly</strong> - The 11.9% cancellation rate means approximately 90 candidates didn't utilize our technical support services after being scheduled. This represents lost revenue opportunity and inefficient resource allocation.</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Service Capacity Growth Trend</h2>
+            <p class="section-intro">
+                Our technical support service has scaled dramatically over the past year, demonstrating our ability to handle increased demand from marketing's lead generation efforts.
+            </p>
+            <div class="chart-container">
+                <img src="https://firebasestorage.googleapis.com/v0/b/reportcraft-164f6.appspot.com/o/KPI%2Fimage%20(5).png?alt=media&token=8b705bf5-bd7b-43cb-9750-f324b460852f" alt="Service Capacity Growth">
+            </div>
+            
+        </div>
+        
+        <div class="section">
+            <h2>Marketing Channel Performance - May 2025</h2>
+            <p class="section-intro">
+                Understanding which marketing channels provide the highest quality leads helps optimize our technical support resource allocation and improve overall conversion rates.
+            </p>
+            <div class="chart-container">
+                <img src="https://firebasestorage.googleapis.com/v0/b/reportcraft-164f6.appspot.com/o/KPI%2Fimage%20(4).png?alt=media&token=ed2937d6-52f4-4cf7-ab66-a773e6d4456a" alt="Marketing Channel Analysis">
+            </div>
+            
+            <div class="team-insights">
+                <div class="team-card">
+                    <h4>Primary Channel: GGR</h4>
+                    <ul class="simple-list">
+                        <li>• 564 interviews (59% of volume)</li>
+                        <li>• Highest quality leads</li>
+                        <li>• Best conversion potential</li>
+                    </ul>
+                </div>
+                <div class="team-card">
+                    <h4>Supporting Channels</h4>
+                    <ul class="simple-list">
+                        <li>• LKN: 253 interviews (27%)</li>
+                        <li>• AHM: 135 interviews (14%)</li>
+                        <li>• Combined: 40% of lead flow</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Year-to-Date Service Performance Matrix</h2>
+            <p class="section-intro">
+                This comprehensive view shows how our technical support service has performed throughout 2024-2025, highlighting the significant improvement in service delivery capacity.
+            </p>
+            <div class="chart-container">
+                <img src="https://firebasestorage.googleapis.com/v0/b/reportcraft-164f6.appspot.com/o/KPI%2Fimage%20(4).png?alt=media&token=ed2937d6-52f4-4cf7-ab66-a773e6d4456a" alt="Annual Performance Matrix">
+            </div>
+            <div class="success-box">
+                <h3>Service Excellence in 2025</h3>
+                <p>Q2 2025 shows consistent high-volume service delivery with an average of 780 interviews supported monthly - a 56% increase from 2024's average. This demonstrates successful scaling of our technical support infrastructure.</p>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Technical Support Team Performance</h2>
+            <p class="section-intro">
+                Individual performance metrics show which team members excel at converting marketing leads into successful placements through effective technical support delivery.
+            </p>
+            <div class="chart-container">
+                <img src="https://firebasestorage.googleapis.com/v0/b/reportcraft-164f6.appspot.com/o/KPI%2Fimage%20(3).png?alt=media&token=c0f72f7f-24f9-4058-bea3-aca33255625a" alt="Team Performance Metrics For Month: May, 2025">
+                <img src="https://firebasestorage.googleapis.com/v0/b/reportcraft-164f6.appspot.com/o/KPI%2Fimage%20(2).png?alt=media&token=f26b737c-86d4-4ba2-93b8-51907fee1b9b" alt="Team Performance Metrics For Year 2025">
+            </div>
+            
+            <div class="team-insights">
+                <div class="team-card">
+                    <h4>Excellence in Service Delivery</h4>
+                    <ul class="simple-list">
+                        <li>• <strong>Rahul Agarwal:</strong> 161% efficiency rate</li>
+                        <li>• <strong>Nikesh Raj:</strong> 258 interviews, 23 placements</li>
+                        <li>• <strong>Prateek Narvariya:</strong> Highest volume (263)</li>
+                    </ul>
+                </div>
+                <div class="team-card">
+                    <h4>Development Opportunities</h4>
+                    <ul class="simple-list">
+                        <li>• 4 team members with 0 conversions</li>
+                        <li>• Significant skill gap identified</li>
+                        <li>• Training intervention required</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        
+        <div class="section">
+            <h2>Strategic Recommendations for Service Improvement</h2>
+            <p class="section-intro">
+                Based on our analysis of technical support service delivery, these actions will improve our conversion of marketing leads into successful placements.
+            </p>
+            
+            <div class="action-item">
+                <strong>1. Enhance Pre-Interview Technical Preparation</strong>
+                Why it matters: With 11.9% of candidates not utilizing our services after scheduling, we're losing potential placements and wasting preparation resources.
+                <br><br>Actions: Implement mandatory technical readiness checks 24 hours before interviews, provide preliminary technical guidance materials, establish clear communication protocols about our support services.
+            </div>
+            
+            <div class="action-item">
+                <strong>2. Optimize Lead Quality from Marketing</strong>
+                Why it matters: March's 5.6% conversion shows what's possible. Returning to that level means 8-10 additional placements monthly.
+                <br><br>Actions: Work with marketing to refine lead qualification criteria, focus on GGR channel optimization, implement feedback loop on lead quality.
+            </div>
+            
+            <div class="action-item">
+                <strong>3. Standardize Technical Support Delivery</strong>
+                Why it matters: The performance gap between top and bottom performers indicates inconsistent service delivery methods.
+                <br><br>Actions: Document best practices from Rahul Agarwal's approach, create standardized support protocols, implement quality assurance checks.
+            </div>
+            
+            <div class="action-item">
+                <strong>4. Intensive Training for Underperformers</strong>
+                Why it matters: 4 team members with zero conversions represent 20% of our workforce producing no results.
+                <br><br>Actions: Immediate skill assessment, paired mentoring with top performers, performance improvement plans with 30-day targets.
+            </div>
+            
+            <div class="insight-box" style="margin-top: 30px;">
+                <h3>Expected Outcomes</h3>
+                <p>Implementing these recommendations should reduce cancellations to below 5%, improve conversion rates to 5.5%+, and generate an additional 10-15 placements monthly - representing significant revenue growth from the same marketing investment.</p>
+            </div>
+        </div>
+        
+        <div class="footer">
+            <p><strong>Technical Support Services Report - May 2025</strong></p>
+            <p>Confidential - For Internal Management Review Only</p>
+        </div>
+    </div>
+</body>
+</html>
